@@ -42,7 +42,7 @@ type dummy.AllegedOliveLynna {
   hidden_boolean IntermediateRoseOla {
     _required = false
     _hidden = true
-    _hidden_value = true
+    _hidden_value = false
     _important_values = [
       {
         value = "My first time using an elevator was an uplifting experience. The second time let me down."
