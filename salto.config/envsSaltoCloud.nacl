@@ -1,0 +1,8 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "0c45e01c-0c95-4d80-a820-0a519bae4bf4"
+      folderName = "testing1234"
+    },
+  ]
+}
